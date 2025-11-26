@@ -1,1 +1,1 @@
-alert("from main js")
+alert("from main jsj")
